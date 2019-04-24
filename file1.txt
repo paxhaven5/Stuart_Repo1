@@ -7,3 +7,5 @@ More content.
 Once again doing a change to the file.
 
 This is cool stuff.
+
+This is rad stuff.
